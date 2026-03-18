@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Vivekitha! 🚀  
-# 👋 Hi, I'm Vivekitha
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmoni&show_icons=true)
 
