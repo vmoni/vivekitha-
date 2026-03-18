@@ -1,5 +1,9 @@
 # 👋 Hey there, I'm Vivekitha! 🚀  
+# 👋 Hi, I'm Vivekitha
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmoni&show_icons=true)
+
+🚀 Embedded Systems | STM32 | IoT | RTOS
 Welcome to my GitHub profile!  
 I build **real-time embedded systems and IoT applications**.
 
